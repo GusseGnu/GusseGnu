@@ -14,12 +14,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <br>
 
 <b> Skills</b>
+
 <br>
+
+-->
 
 <p align="center">
 
@@ -40,18 +43,9 @@ Here are some ideas to get you started:
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-8B89CC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
-<br>
-
-</p>
-
-<br>
-
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  
 -----
-
-<br>
-
 
 ## <b> Github Stats </b>
 <br>
@@ -65,8 +59,6 @@ Here are some ideas to get you started:
 </a>
 </div>
 
-<br>
-<br>
 <br>
 
 <!--
@@ -128,4 +120,4 @@ Here are some ideas to get you started:
 
 <br>
 
-Last Edited on: 26/07/2024
+Last Edited on: 29/07/2024
