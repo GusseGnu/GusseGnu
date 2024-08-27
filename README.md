@@ -1,4 +1,4 @@
-## CS Student
+CS Student
 
 <!--
 **GusseGnu/GusseGnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,6 +32,7 @@ Here are some ideas to get you started:
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![VHDL](https://img.shields.io/badge/VHDL-0078d7.svg?style=for-the-badge&logo=vhdl&logoColor=white)
     
@@ -53,7 +54,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 <a href="https://github.com/GusseGnu/">
-  <img src="https://github-readme-stats.vercel.app/api?username=GusseGnu&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40%22%20width=%22450" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GusseGnu&count_private=true&include_all_commits=true&rank_icon=github&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40%22%20width=%22450" height="175"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GusseGnu&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="175"  alt="GusseGnu"/>
 
 </a>
@@ -120,4 +121,4 @@ Here are some ideas to get you started:
 
 <br>
 
-Last Edited on: 01/08/2024
+Last Edited on: 27/08/2024
