@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
+  [![F#](https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=fff)](#)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![VHDL](https://img.shields.io/badge/VHDL-0078d7.svg?style=for-the-badge&logo=vhdl&logoColor=white)
     
@@ -73,4 +74,4 @@ Here are some ideas to get you started:
 
 <br>
 
-Last Edited on: 27/08/2024
+Last Edited on: 07/09/2024
